@@ -1,93 +1,53 @@
-# 03 JavaScript: Password Generator
+# 03 Password Generator
 
-## Your Task
+## Links:
 
-This week’s homework requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+Repo: https://github.com/CristinaAcosta/RandomPassword
+Website: https://cristinaacosta.github.io/RandomPassword/
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+## Description:
 
-## User Story
+Here I created a basic site that jsut generated random passwords for the user.
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+## Technologies Used:
 
-## Acceptance Criteria
+- Javascript
+- HTML/CSS
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
+## Things we learned:
 
-## Mock-Up
+- I learned how to use Javascript to alert the user and generate a random password
 
-The following image shows the web application's appearance and functionality:
+## Website Image:
 
-![password generator demo](./Assets/03-javascript-homework-demo.png)
+<img width="1204" alt="Screen Shot 2021-05-30 at 4 07 42 PM" src="https://user-images.githubusercontent.com/74034987/120122972-2d3ea200-c161-11eb-8623-2e4d922af6c4.png">
 
-## Grading Requirements
+<img width="1197" alt="Screen Shot 2021-05-30 at 4 08 24 PM" src="https://user-images.githubusercontent.com/74034987/120122985-447d8f80-c161-11eb-91ab-6a8e91ce3eeb.png">
 
-This homework is graded based on the following criteria:
+## Author:
 
-### Technical Acceptance Criteria: 40%
+- Cristina Acosta
 
-- Satisfies all of the above acceptance criteria plus the following:
+## License:
 
-  - The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
+MIT
+Copyright (c) 2012-2021 Scott Chacon and others
 
-### Deployment: 32%
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-- Application deployed at live URL.
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-- Application loads with no errors.
-
-- Application GitHub URL submitted.
-
-- GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-- Application user experience is intuitive and easy to navigate.
-
-- Application user interface style is clean and polished.
-
-- Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-- Repository has a unique name.
-
-- Repository follows best practices for file structure and naming conventions.
-
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-- Repository contains multiple descriptive commit messages.
-
-- Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-- The URL of the deployed application.
-
-- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

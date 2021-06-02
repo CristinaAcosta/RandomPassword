@@ -18,7 +18,7 @@ document.getElementById("generate") .addEventListener('click', generatePassword)
 
 
 function generatePassword() {
-  var passwordLength = prompt(" Enter number of characters for yoour password.  It must be more than 8 but less than 128.");
+  var passwordLength = prompt(" Enter number of characters for your password.  It must be more than 8 but less than 128.");
 
   var numbers = confirm("Do you want numbers in your password?");
 
