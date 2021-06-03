@@ -18,12 +18,6 @@ Here I created a basic site that jsut generated random passwords for the user.
 
 - I learned how to use Javascript to alert the user and generate a random password
 
-## Website Image:
-
-<img width="1204" alt="Screen Shot 2021-05-30 at 4 07 42 PM" src="https://user-images.githubusercontent.com/74034987/120122972-2d3ea200-c161-11eb-8623-2e4d922af6c4.png">
-
-<img width="1197" alt="Screen Shot 2021-05-30 at 4 08 24 PM" src="https://user-images.githubusercontent.com/74034987/120122985-447d8f80-c161-11eb-91ab-6a8e91ce3eeb.png">
-
 ## Author:
 
 - Cristina Acosta
